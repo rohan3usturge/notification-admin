@@ -1,0 +1,6 @@
+export const ADD = 'notificationConfigs/ADD'
+export const ADD_SUCCESS = 'notificationConfigs/ADD_SUCCESS'
+export const ADD_FAILURE = 'notificationConfigs/ADD_FAILURE'
+export const FETCH = 'notificationConfigs/FETCH'
+export const FETCH_SUCCESS = 'notificationConfigs/FETCH_SUCCESS'
+export const FETCH_FAILURE = 'notificationConfigs/FETCH_FAILURE'

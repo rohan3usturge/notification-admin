@@ -1,0 +1,6 @@
+export const ADD = 'channels/ADD'
+export const ADD_SUCCESS = 'channels/ADD_SUCCESS'
+export const ADD_FAILURE = 'channels/ADD_FAILURE'
+export const FETCH = 'channels/FETCH'
+export const FETCH_SUCCESS = 'channels/FETCH_SUCCESS'
+export const FETCH_FAILURE = 'channels/FETCH_FAILURE'
